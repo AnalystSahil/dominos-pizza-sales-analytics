@@ -1,3 +1,8 @@
+<img width="992" height="550" alt="image" src="https://github.com/user-attachments/assets/9a6afda0-dcb5-4921-af7f-93b70b71384b" />
+
+
+
+
 📌 Overview
 
 This project transforms raw pizza order data (orders, order details, pizzas, and pizza types) into a single, interactive business intelligence dashboard. It combines data cleaning, table relationships, calculated fields, and DAX-driven KPIs to answer real business questions — which products sell best, when demand peaks, and how revenue trends over time.
